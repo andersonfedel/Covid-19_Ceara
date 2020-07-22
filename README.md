@@ -1,4 +1,4 @@
-# covid-19
+# covid-19 Ceará
 Repository test for covid-19 analysis in Ceará
 Power B.I. reports:
 https://app.powerbi.com/view?r=eyJrIjoiMjk0ZjkwNGYtZGU2MS00Zjg3LWI2YmQtOTQxM2I5MWE5MmMwIiwidCI6IjBmZjZkYzI1LTQ3MGQtNDNiZS1iYjUwLWIwNzE1ZGU5MWNlYSJ9 
