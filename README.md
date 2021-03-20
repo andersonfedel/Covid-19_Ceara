@@ -12,3 +12,6 @@ Versão 3.7 (Atualizada automaticamente uma vez por dia, via Power BI Service): 
 
 Fonte 1: https://github.com/integrasus/api-covid-ce
 Fonte 2: http://download-integrasus.saude.ce.gov.br/download
+
+Disponibilidade de leitos no Ceará e Taxa de locomoção urbana:
+https://public.flourish.studio/story/801567/
